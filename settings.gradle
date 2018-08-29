@@ -1,2 +1,3 @@
 rootProject.name = 'mir'
+include 'timed-task'
 
